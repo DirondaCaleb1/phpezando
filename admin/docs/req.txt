@@ -1,0 +1,9 @@
+Download the free template in creative-tim.com/product/material-dashboard
+
+<!--
+    <form action="../server/forms/admin/code.php" method="post">
+       <input type="hidden" name="category_id" value="<?php //$resultCategories[$j][0] ?>">
+       <button type="submit" class="btn btn-danger"
+         name="delete_category">Supprimer</button>
+    </form>
+-->

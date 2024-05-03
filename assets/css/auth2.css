@@ -1,0 +1,81 @@
+:root {
+  /* Colors */
+  --bg-gray-800: #808080;
+  --bg-gray-600: #9c9a9a;
+  --bg-gray-400: #aaa8a8;
+  --bg-gray-200: #bebcbc;
+  --bg-gray-100: #d3d0d0;
+  --bg-gray-0: #e6e4e4;
+  --text-white: #fff;
+  --text-dark: #000;
+  --dark-800: #070707;
+  --dark-600: #1b1b1b;
+  --dark-200: #272626;
+  --dark-0: #464545;
+  --white: hsl(0, 0%, 100%);
+  --dark-red: hsl(0, 93%, 18%);
+  --dark-red-800: hsl(0, 96%, 10%);
+  --dark-red-600: hsl(0, 94%, 7%);
+  --light-red: hsl(0, 65%, 89%);
+  --red-salsa: #db2b2b;
+  --red-800: hsl(0, 100%, 52%);
+  --red-600: hsl(0, 81%, 48%);
+  --red-400: hsl(0, 70%, 52%);
+  --red-200: hsl(0, 52%, 56%);
+  --red-100: hsl(0, 28%, 70%);
+  --red-0: hsl(0, 53%, 77%);
+  --light-green: hsl(100, 64%, 87%);
+  --light-green-800: hsl(100, 9%, 94%);
+  --light-green-600: hsl(101, 65%, 76%);
+  --light-green-400: hsl(101, 62%, 62%);
+  --light-green-200: hsl(101, 69%, 55%);
+  --light-green-0: hsl(101, 53%, 51%);
+  --green-irish: hsl(101, 100%, 40%);
+  --green-tree: hsl(101, 91%, 36%);
+  --green-800: hsl(101, 100%, 50%);
+  --green-600: hsl(101, 73%, 53%);
+  --green-400: hsl(101, 63%, 30%);
+  --green-bold: hsl(101, 92%, 20%);
+  --dark-green: hsl(100, 82%, 2%);
+  --dark-green-800: hsl(101, 89%, 7%);
+  --dark-green-600: hsl(100, 97%, 14%);
+  --dark-green-400: hsl(101, 96%, 20%);
+  --azure: hsl(184, 100%, 40%);
+  --azure-dark: hsl(187, 90%, 4%);
+  --azure-light: hsl(184, 73%, 83%);
+  --blue-coral: hsl(236, 90%, 63%);
+  --blue-sea: hsl(236, 84%, 39%);
+  --blue: hsl(236, 100%, 50%);
+  --light-blue: hsl(224, 90%, 49%);
+  --dark-blue: hsl(224, 93%, 5%);
+  --orange-dark-full: #2b1201;
+  --orange-dark-800: #381701;
+  --orange-dark-600: #4b1f02;
+  --orange-dark-400: #632903;
+  --orange-dark-200: #6e2f04;
+  --orange-shadow: #75411f;
+  --orange-juice: #c95a0f;
+  --orange-light-full: #f8e1d2;
+  --orange-light-800: #fad5bd;
+  --orange-light-600: #fac7a4;
+  --orange-light-400: #f7bb93;
+  --orange-light-200: #f5a773;
+  --orange-light-0: #f88f48;
+  --orange-800: #d8702b;
+  --orange-400: #b65311;
+
+  /*Dimensions */
+  --raduis-9: 9px;
+  --raduis-12: 12px;
+  --raduis-circle: 50%;
+  --raduis-full: 100%;
+}
+
+.shadow-form {
+  box-shadow: 8px 0 8px var(--bg-gray-800);
+}
+
+.shadow-box {
+  box-shadow: 8px 0 8px var(--bg-gray-800);
+  height: 70px;
+}

@@ -1,0 +1,14 @@
+.hidden {
+  color: transparent;
+  /*display: none;*/
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+.ms-bl {
+  color: #fff;
+  font-weight: bold;
+  margin-left: 0.25rem !important;
+}
